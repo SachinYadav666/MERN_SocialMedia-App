@@ -25,7 +25,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to Socipedia, the Social Media for Sociopaths!
+          Welcome to SocialMania, the Social Media for Sociopaths!
         </Typography>
         <Form />
       </Box>
